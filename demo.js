@@ -12,6 +12,7 @@ let bar = function() {
 function foo () {
 	console.log('foo')
 }*/
+
 showName()
 var showName = function() { 
 	console.log(2)
