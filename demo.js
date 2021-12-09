@@ -13,6 +13,30 @@ function foo () {
 	console.log('foo')
 }*/
 
+/*
+var myObj = {
+  name : "极客时间", 
+  showThis: function(){
+    console.log(this)
+    var bar = ()=>{
+      this.name = "极客邦"
+      console.log(this)
+    }
+    bar()
+  }
+}
+myObj.showThis()
+console.log(myObj.name)
+console.log(global.name)
+*/
+
+ 
+var bar = () => {
+	console.log(this) // {}
+}
+
+bar()
+
 showName()
 var showName = function() { 
 	console.log(2)
