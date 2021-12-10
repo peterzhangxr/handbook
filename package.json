@@ -1,0 +1,23 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myPromise.js",
+  "scripts": {
+    "test": "promises-aplus-tests MyPromise"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterzhangxr/handbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterzhangxr/handbook/issues"
+  },
+  "homepage": "https://github.com/peterzhangxr/handbook#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
