@@ -10,6 +10,7 @@ npm -g install pnpm
 
 #### yarn pnp
 https://www.perforce.com/blog/vcs/what-monorepo
+https://loveky.github.io/2019/02/11/yarn-pnp/
 
 #### npm install原理
 
